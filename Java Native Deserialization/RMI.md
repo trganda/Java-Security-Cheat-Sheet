@@ -146,7 +146,7 @@ public class OrdinaryRMIClient {
 
 - 获取`RegistryImpl_Stub`实例
 
-获取`RemoteService` 对象
+获取`RemoteService`对象
 
 - 调用`UnicastRef#_newCall()_`与`Registry`创建连接，并创建`StreamRemoteCall`实例
 - 调用`StreamRemoteCall#_executeCall()_`与`Registry`进行交互，之后从`Registry`的响应中获得`Remote`对象，此时获取的为`RemoteServiceImpl`的代理类
