@@ -1,6 +1,6 @@
 # Java-Security-Cheat-Sheet
 
-Java安全相关的笔记与备忘录。
+The cheat sheet and notes about Java security.
 
 ## Table of Content
 
@@ -13,8 +13,8 @@ Java安全相关的笔记与备忘录。
 
 #### Overview
 
-- [Java反序列化漏洞介绍](Java%20Native%20Deserialization/Java%20Serialization%20Overview.md)
-- [RMI协议分析与利用](Java%20Native%20Deserialization/RMI.md)
+- [Introduction of Java Deserialization](Java%20Native%20Deserialization/Java%20Serialization%20Overview.md)
+- [Introduction of RMI and exploit it](Java%20Native%20Deserialization/RMI.md)
 
 #### Gadget
 
